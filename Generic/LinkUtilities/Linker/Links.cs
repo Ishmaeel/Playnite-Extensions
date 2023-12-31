@@ -45,6 +45,7 @@ namespace LinkUtilities.Linker
             Add(new LinkStrategyWiki());
             Add(new LinkTvTropes());
             Add(new LinkWikipedia());
+            Add(new LinkYouTube());
             Add(new LinkZopharsDomain());
         }
     }

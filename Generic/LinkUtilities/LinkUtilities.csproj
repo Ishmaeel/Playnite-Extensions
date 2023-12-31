@@ -87,6 +87,7 @@
     <Compile Include="Linker\LinkSources\LinkProtonDb.cs" />
     <Compile Include="Linker\LinkSources\LinkSteamDb.cs" />
     <Compile Include="Linker\LinkSources\LinkTvTropes.cs" />
+    <Compile Include="Linker\LinkSources\LinkYouTube.cs" />
     <Compile Include="ViewModels\CheckLink.cs" />
     <Compile Include="ViewModels\CheckLinks.cs" />
     <Compile Include="ViewModels\CheckLinksViewModel.cs" />
